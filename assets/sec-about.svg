@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#7c5cff"/><stop offset=".5" stop-color="#22d3ee" stop-opacity=".5"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></linearGradient><linearGradient id="l2" x1="0" x2="1"><stop offset="0" stop-color="#7c5cff"/><stop offset="1" stop-color="#22a5c4"/></linearGradient></defs>
+<text x="0" y="34" fill="#22d3ee" font-family="JetBrains Mono,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="15">01</text>
+<text x="44" y="36" fill="url(#l2)" font-family="Segoe UI,Helvetica,Arial,DejaVu Sans,sans-serif" font-size="26" font-weight="800">About me</text>
+<rect x="0" y="48" width="1000" height="2" fill="url(#l)"><animate attributeName="width" from="0" to="1000" dur="1.2s" fill="freeze"/></rect>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="190" viewBox="0 0 480 190">
+<style>@keyframes up{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}} .a{animation:up .7s ease-out both}</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6b9a"/><stop offset="1" stop-color="#7c5cff"/></linearGradient>
+<radialGradient id="r" cx="1" cy="0" r="1"><stop offset="0" stop-color="#7c5cff" stop-opacity=".22"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient></defs>
+<g class="a">
+<rect x="1" y="1" width="478" height="188" rx="16" fill="#0d0f1a"/>
+<rect x="1" y="1" width="478" height="188" rx="16" fill="url(#r)"/>
+<rect x="1" y="1" width="478" height="188" rx="16" fill="none" stroke="url(#g)" stroke-opacity=".7" stroke-width="1.5"/>
+<rect x="24" y="22" width="44" height="44" rx="12" fill="url(#g)"/>
+<text x="46" y="52" text-anchor="middle" fill="#fff" font-family="Segoe UI,Helvetica,Arial,DejaVu Sans,sans-serif" font-size="22" font-weight="800">R</text>
+<text x="82" y="42" fill="#eef0ff" font-family="Segoe UI,Helvetica,Arial,DejaVu Sans,sans-serif" font-size="19" font-weight="700">Ringtaxi</text>
+<text x="82" y="62" fill="#7c5cff" font-family="Segoe UI,Helvetica,Arial,DejaVu Sans,sans-serif" font-size="13">Taxi booking</text>
+<text x="456" y="42" text-anchor="end" fill="#6b7194" font-family="JetBrains Mono,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="11">2025 → 2026</text>
+<text x="24" y="106" fill="#9aa0bd" font-family="Segoe UI,Helvetica,Arial,DejaVu Sans,sans-serif" font-size="13.5">Built the SMS sending in-house, checked the API</text><text x="24" y="125" fill="#9aa0bd" font-family="Segoe UI,Helvetica,Arial,DejaVu Sans,sans-serif" font-size="13.5">integrations, tuned speed and SEO.</text>
+<rect x="24" y="146" width="70" height="24" rx="12" fill="#ff6b9a" fill-opacity=".14" stroke="#ff6b9a" stroke-opacity=".5"/><text x="59" y="162" text-anchor="middle" fill="#dfe3ff" font-family="JetBrains Mono,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="11.5">Node.js</text><rect x="102.4" y="146" width="49" height="24" rx="12" fill="#ff6b9a" fill-opacity=".14" stroke="#ff6b9a" stroke-opacity=".5"/><text x="127" y="162" text-anchor="middle" fill="#dfe3ff" font-family="JetBrains Mono,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="11.5">APIs</text><rect x="159.2" y="146" width="42" height="24" rx="12" fill="#ff6b9a" fill-opacity=".14" stroke="#ff6b9a" stroke-opacity=".5"/><text x="180" y="162" text-anchor="middle" fill="#dfe3ff" font-family="JetBrains Mono,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="11.5">SEO</text>
+</g></svg>
