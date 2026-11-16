@@ -37,8 +37,6 @@ After hours I live in `adb shell`, rooting phones and writing **KernelSU · Magi
   <a href="https://taxijob.se"><img src="./assets/cards/taxijob.svg" width="49%" alt="Taxijob" /></a>
 </p>
 
-<p align="center"><sub>Also built: the <b>La Sani dispatch system</b>, used in production (Python, Node.js, React). Private source, happy to walk through it.</sub></p>
-
 <a id="root"></a>
 <img src="./assets/sec-root.svg" width="100%" alt="Root & Android lab" />
 
