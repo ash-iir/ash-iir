@@ -46,8 +46,8 @@ val ashir = Developer(
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ash-iir&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ash-iir&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ash-iir&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ash-iir&theme=tokyonight" />
 </div>
 
 <div align="center">
