@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05060a"/><stop offset="1" stop-color="#0b0d16"/></linearGradient>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#7c5cff"><animate attributeName="stop-color" values="#7c5cff;#22d3ee;#ff6b9a;#7c5cff" dur="8s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#22d3ee"><animate attributeName="stop-color" values="#22d3ee;#ff6b9a;#7c5cff;#22d3ee" dur="8s" repeatCount="indefinite"/></stop></linearGradient>
+<radialGradient id="g1"><stop offset="0" stop-color="#7c5cff" stop-opacity=".45"/><stop offset="1" stop-color="#7c5cff" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2"><stop offset="0" stop-color="#22d3ee" stop-opacity=".35"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+</defs>
+<rect width="1000" height="260" rx="18" fill="url(#bg)"/>
+<rect width="1000" height="260" rx="18" fill="url(#grid)"/>
+<circle cx="180" cy="60" r="200" fill="url(#g1)"><animate attributeName="cx" values="180;260;180" dur="10s" repeatCount="indefinite"/></circle>
+<circle cx="840" cy="210" r="200" fill="url(#g2)"><animate attributeName="cx" values="840;760;840" dur="12s" repeatCount="indefinite"/></circle>
+<text x="500" y="70" text-anchor="middle" fill="#8a90ad" font-family="JetBrains Mono,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="16">~/ashir $ whoami</text>
+<text x="500" y="135" text-anchor="middle" fill="url(#gr)" font-family="Segoe UI,Helvetica,Arial,DejaVu Sans,sans-serif" font-size="58" font-weight="800">Muhammad Ashir</text>
+<text x="500" y="178" text-anchor="middle" fill="#eef0ff" font-family="Segoe UI,Helvetica,Arial,DejaVu Sans,sans-serif" font-size="22">Full-Stack Developer  ·  Root &amp; KernelSU Module Tinkerer</text>
+<text x="500" y="215" text-anchor="middle" fill="#9aa0bd" font-family="JetBrains Mono,SFMono-Regular,Menlo,Consolas,DejaVu Sans Mono,monospace" font-size="15">Node.js · Python · React · Kotlin · Shell   |   Stockholm, Sweden</text>
+<rect x="0" y="252" width="1000" height="8" fill="url(#gr)" opacity=".9"/>
+<rect x="1" y="1" width="998" height="258" rx="18" fill="none" stroke="url(#gr)" stroke-width="2"/>
+</svg>
